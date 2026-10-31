@@ -1,0 +1,7 @@
+# Personal ad domains
+# One exact hostname per line. Comments must start with #.
+ssp.iytcdn.com
+tnc3-alisc1.zijieapi.com
+mssdk.volces.com
+mamasearchad.cloudvideocdn.taobao.com
+alimama.cloudvideocdn.taobao.com
