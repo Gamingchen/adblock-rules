@@ -9,3 +9,9 @@ mamasearchad.cloudvideocdn.taobao.com
 alimama.cloudvideocdn.taobao.com
 douyinpic.com
 k.jd.com
+
+#直播吧
+bytescm.com
+ggck.qiumibao.com
+uczzd.cn
+sm.cn
