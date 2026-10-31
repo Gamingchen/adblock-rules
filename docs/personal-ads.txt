@@ -9,6 +9,7 @@ mamasearchad.cloudvideocdn.taobao.com
 alimama.cloudvideocdn.taobao.com
 douyinpic.com
 k.jd.com
+unet.ucweb.com
 
 #直播吧
 bytescm.com
