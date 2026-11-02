@@ -1,7 +1,8 @@
 # Personal ad domains
 # One exact hostname per line. Comments must start with #.
 
-#Cainiao APP# ===== 广告及广告追踪 =====
+#Cainiao APP
+# ===== 广告及广告追踪 =====
 ssp.iytcdn.com
 tnc3-alisc1.zijieapi.com
 mssdk.volces.com
@@ -38,16 +39,16 @@ gds.alibabadns.com
 # aliyuncs.com
 
 # 苹果 iTunes / App Store 相关域名，可能影响应用商店及下载
-# api-apps-lb.itunes-apple.com.akadns.net
+api-apps-lb.itunes-apple.com.akadns.net
 
 # 淘宝核心 API，可能影响登录、商品、订单等功能
-# acs.m.taobao.com
+acs.m.taobao.com
 
 # CDN 域名，可能同时承载正常素材
-# kunluncan.com
+kunluncan.com
 
 # 字节系图片资源域名，可能影响抖音图片加载
-# douyinpic.com
+douyinpic.com
 
 #直播吧
 bytescm.com
