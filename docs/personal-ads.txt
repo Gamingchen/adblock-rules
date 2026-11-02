@@ -34,21 +34,6 @@ silverbullet-external-ats.itunes-apple.com.akadns.net
 danuoyi.alicdn.com
 gds.alibabadns.com
 
-# ===== 高误杀风险：可能影响正常业务，谨慎启用 =====
-# 阿里云通用域名，可能影响大量正常云服务
-# aliyuncs.com
-
-# 苹果 iTunes / App Store 相关域名，可能影响应用商店及下载
-api-apps-lb.itunes-apple.com.akadns.net
-
-# 淘宝核心 API，可能影响登录、商品、订单等功能
-acs.m.taobao.com
-
-# CDN 域名，可能同时承载正常素材
-kunluncan.com
-
-# 字节系图片资源域名，可能影响抖音图片加载
-douyinpic.com
 
 #直播吧
 bytescm.com
