@@ -2,14 +2,53 @@
 # One exact hostname per line. Comments must start with #.
 
 #Cainiao APP
+! ===== 广告及广告追踪 =====
 ssp.iytcdn.com
 tnc3-alisc1.zijieapi.com
 mssdk.volces.com
 mamasearchad.cloudvideocdn.taobao.com
 alimama.cloudvideocdn.taobao.com
-douyinpic.com
+tanx.com
+atoken.m.taobao.com
+adashx.ut.cainiao.com
+h-adashx.ut.cainiao.com
+gungnir.xiaojukeji.com
 k.jd.com
 unet.ucweb.com
+
+! ===== 定向广告素材及广告分发 =====
+guoguo-cdn.cainiao.com
+netflow-mtop.cainiao.com
+tao.ad.cn.sz.ad.tengine.ingress.alibabacorp.com.gds.alibabadns.com
+cn.alicdn.com.danuoyi.tbcache.com
+popunify-public.cn-zhangbei-center.aliyuncs.com.vipgds.alibabadns.com
+danuoyi.tbcache.com
+acs.m.taobao.com.gds.alibabadns.com
+cainiao.com.gds.alibabadns.com
+itunes.apple.com.download.ks-cdn.com
+cainiao.com.queniuak.com
+guoguo-cdn.cainiao.com.queniuak.com
+oss-adns.aliyuncs.com.gds.alibabadns.com
+p46-buy-as.itunes.v.aaplimg.com
+silverbullet-external-ats.itunes-apple.com.akadns.net
+danuoyi.alicdn.com
+gds.alibabadns.com
+
+! ===== 高误杀风险：可能影响正常业务，谨慎启用 =====
+! 阿里云通用域名，可能影响大量正常云服务
+! aliyuncs.com
+
+! 苹果 iTunes / App Store 相关域名，可能影响应用商店及下载
+! api-apps-lb.itunes-apple.com.akadns.net
+
+! 淘宝核心 API，可能影响登录、商品、订单等功能
+! acs.m.taobao.com
+
+! CDN 域名，可能同时承载正常素材
+! kunluncan.com
+
+! 字节系图片资源域名，可能影响抖音图片加载
+! douyinpic.com
 
 #直播吧
 bytescm.com
