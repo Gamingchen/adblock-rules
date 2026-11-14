@@ -55,3 +55,13 @@ bytescm.com
 ggck.qiumibao.com
 uczzd.cn
 sm.cn
+
+#荐片
+bnmcdsca.top
+
+gungnir.xiaojukeji.com
+vod.300hu.com.wscdns.com
+vod.300hu.com
+
+#微博
+tqt.weibo.cn
