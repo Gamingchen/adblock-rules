@@ -65,3 +65,8 @@ vod.300hu.com
 
 #微博
 tqt.weibo.cn
+
+#微信小程序
+extshort.weixin.qq.com
+log.banjixiaoguanjia.com
+wst.wxapp.tc.qq.com
