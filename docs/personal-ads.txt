@@ -70,3 +70,4 @@ tqt.weibo.cn
 extshort.weixin.qq.com
 log.banjixiaoguanjia.com
 wst.wxapp.tc.qq.com
+wximg.wxs.qq.com
