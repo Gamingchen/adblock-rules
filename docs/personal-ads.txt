@@ -68,6 +68,14 @@ tqt.weibo.cn
 
 #微信小程序
 extshort.weixin.qq.com
+open.work.weixin.qq.com
+mmec.wxqcloud.qq.com.cn
+wximg.wxs.qq.com
+sh.wxgateway.com
+pics-obs.banxiaoer.com
+files-obs.banxiaoer.com
 log.banjixiaoguanjia.com
 wst.wxapp.tc.qq.com
-wximg.wxs.qq.com
+img.bnmcdsca.top
+bxe-obs.banxiaoer.com
+bxr.banxiaoer.com
